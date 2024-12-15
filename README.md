@@ -91,9 +91,9 @@ Adicionalmente, el límite de ciclos asegura que cada filósofo complete un núm
 
 ### Ejemplo de Ejecución exitosa
 
-![Inicio de la Ejecucion](img.png)
+![Inicio de la Ejecucion](./capturas/img.png)
 
-![Finalizacion](img_1.png)
+![Finalizacion](./capturas/img_1.png)
 
 ---
 
